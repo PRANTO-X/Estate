@@ -23,8 +23,6 @@
   .swiper{
     padding-bottom: 40px !important;
   }
-  .swiper-pagination-bullet-active{
-    @apply !bg-gray-600;
-  }
+ 
 }
 
